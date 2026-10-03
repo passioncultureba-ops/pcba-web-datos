@@ -1,0 +1,9 @@
+{
+  "actualizado": "2026-10-03T00:00Z",
+  "museos": [
+    { "id": 0, "club": "Boca Juniors", "activo": true, "salidas": [] },
+    { "id": 1, "club": "River Plate", "activo": true, "salidas": [] },
+    { "id": 2, "club": "Argentinos Juniors", "activo": true, "salidas": [] },
+    { "id": 3, "club": "La Casa de D10S", "activo": true, "salidas": [] }
+  ]
+}
