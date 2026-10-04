@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-04T03:21Z",
+  "actualizado": "2026-10-04T12:53Z",
   "partidos": [
     {
       "id": "primera-divi-f11-velez-platense",
@@ -80,6 +80,54 @@
         {
           "seats": 0,
           "popular": 4
+        }
+      ]
+    },
+    {
+      "id": "primera-divi-f11-huracan-aldosivi",
+      "iso": "2026-10-04",
+      "confirmed": true,
+      "home": "Huracán",
+      "away": "Aldosivi",
+      "stadium": "Tomás A. Ducó",
+      "exactDate": "2026-10-04",
+      "exactTime": "14:45",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 5
+        },
+        {
+          "seats": 0,
+          "popular": 4
+        },
+        {
+          "seats": 0,
+          "popular": 4
+        }
+      ]
+    },
+    {
+      "id": "primera-divi-f11-argentinos-juniors-tigre",
+      "iso": "2026-10-04",
+      "confirmed": true,
+      "home": "Argentinos Juniors",
+      "away": "Tigre",
+      "stadium": "Diego Armando Maradona",
+      "exactDate": "2026-10-04",
+      "exactTime": "19:15",
+      "avail": [
+        {
+          "seats": 20,
+          "popular": 0
+        },
+        {
+          "seats": 8,
+          "popular": 0
+        },
+        {
+          "seats": 4,
+          "popular": 0
         }
       ]
     }
