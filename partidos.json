@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-04T00:59Z",
+  "actualizado": "2026-10-04T03:12Z",
   "partidos": [
     {
       "id": "primera-divi-f11-velez-platense",
@@ -12,7 +12,7 @@
       "exactTime": "19:00",
       "avail": [
         {
-          "seats": 4,
+          "seats": 5,
           "popular": 0
         },
         {
@@ -42,7 +42,7 @@
       "avail": [
         {
           "seats": 0,
-          "popular": 4
+          "popular": 5
         },
         {
           "seats": 0,
