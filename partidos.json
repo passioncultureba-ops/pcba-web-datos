@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-04T03:12Z",
+  "actualizado": "2026-10-04T03:21Z",
   "partidos": [
     {
       "id": "primera-divi-f11-velez-platense",
@@ -57,6 +57,30 @@
         100,
         120,
         150
+      ]
+    },
+    {
+      "id": "sel-arg-benin",
+      "iso": "2026-10-06",
+      "confirmed": true,
+      "home": "Argentina",
+      "away": "Benín",
+      "stadium": "El Monumental",
+      "exactDate": "2026-10-06",
+      "exactTime": "20:00",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 5
+        },
+        {
+          "seats": 0,
+          "popular": 4
+        },
+        {
+          "seats": 0,
+          "popular": 4
+        }
       ]
     }
   ]
