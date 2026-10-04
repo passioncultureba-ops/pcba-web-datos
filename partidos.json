@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-04T12:53Z",
+  "actualizado": "2026-10-04T23:04Z",
   "partidos": [
     {
       "id": "primera-divi-f11-velez-platense",
@@ -28,7 +28,8 @@
         100,
         120,
         150
-      ]
+      ],
+      "host_sector": "platea"
     },
     {
       "id": "primera-divi-f11-banfield-rosario-central",
@@ -57,7 +58,8 @@
         100,
         120,
         150
-      ]
+      ],
+      "host_sector": "popular"
     },
     {
       "id": "sel-arg-benin",
@@ -81,7 +83,8 @@
           "seats": 0,
           "popular": 4
         }
-      ]
+      ],
+      "host_sector": "popular"
     },
     {
       "id": "primera-divi-f11-huracan-aldosivi",
@@ -105,7 +108,8 @@
           "seats": 0,
           "popular": 4
         }
-      ]
+      ],
+      "host_sector": "popular"
     },
     {
       "id": "primera-divi-f11-argentinos-juniors-tigre",
@@ -129,7 +133,8 @@
           "seats": 4,
           "popular": 0
         }
-      ]
+      ],
+      "host_sector": "platea"
     }
   ]
 }
