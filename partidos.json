@@ -1,4 +1,63 @@
 {
-  "actualizado": "2026-10-03T00:00Z",
-  "partidos": []
+  "actualizado": "2026-10-04T00:59Z",
+  "partidos": [
+    {
+      "id": "primera-divi-f11-velez-platense",
+      "iso": "2026-10-05",
+      "confirmed": true,
+      "home": "Vélez Sarsfield",
+      "away": "Platense",
+      "stadium": "José Amalfitani",
+      "exactDate": "2026-10-05",
+      "exactTime": "19:00",
+      "avail": [
+        {
+          "seats": 4,
+          "popular": 0
+        },
+        {
+          "seats": 4,
+          "popular": 0
+        },
+        {
+          "seats": 4,
+          "popular": 0
+        }
+      ],
+      "precios_usd": [
+        100,
+        120,
+        150
+      ]
+    },
+    {
+      "id": "primera-divi-f11-banfield-rosario-central",
+      "iso": "2026-10-05",
+      "confirmed": true,
+      "home": "Banfield",
+      "away": "Rosario Central",
+      "stadium": "Florencio Sola",
+      "exactDate": "2026-10-05",
+      "exactTime": "21:15",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 4
+        },
+        {
+          "seats": 0,
+          "popular": 4
+        },
+        {
+          "seats": 0,
+          "popular": 4
+        }
+      ],
+      "precios_usd": [
+        100,
+        120,
+        150
+      ]
+    }
+  ]
 }
