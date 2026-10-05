@@ -1,4 +1,30 @@
 {
-  "actualizado": "2026-10-05T23:36Z",
-  "partidos": []
+  "actualizado": "2026-10-05T23:39Z",
+  "partidos": [
+    {
+      "id": "sel-arg-benin",
+      "iso": "2026-10-06",
+      "confirmed": true,
+      "home": "Argentina",
+      "away": "Benín",
+      "stadium": "El Monumental",
+      "exactDate": "2026-10-06",
+      "exactTime": "20:00",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 5
+        },
+        {
+          "seats": 0,
+          "popular": 4
+        },
+        {
+          "seats": 0,
+          "popular": 4
+        }
+      ],
+      "host_sector": "popular"
+    }
+  ]
 }
