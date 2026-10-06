@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T00:48Z",
+  "actualizado": "2026-10-06T01:34Z",
   "partidos": [
     {
       "id": "sel-arg-benin",
@@ -29,7 +29,8 @@
         100,
         120,
         150
-      ]
+      ],
+      "avisado_cierre": "2026-10-06T01:34Z"
     },
     {
       "id": "primera-divi-f12-gimnasia-la-plata-atletico-tucuman",
