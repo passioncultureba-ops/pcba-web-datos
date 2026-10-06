@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T01:46Z",
+  "actualizado": "2026-10-06T02:06Z",
   "partidos": [
     {
       "id": "sel-arg-benin",
@@ -25,11 +25,6 @@
         }
       ],
       "host_sector": null,
-      "precios_usd": [
-        100,
-        120,
-        150
-      ],
       "avisado_cierre": "2026-10-06T01:34Z"
     },
     {
@@ -55,12 +50,7 @@
           "popular": 0
         }
       ],
-      "host_sector": null,
-      "precios_usd": [
-        100,
-        120,
-        150
-      ]
+      "host_sector": null
     },
     {
       "id": "primera-divi-f12-san-lorenzo-deportivo-riestra",
@@ -85,12 +75,7 @@
           "popular": 0
         }
       ],
-      "host_sector": null,
-      "precios_usd": [
-        100,
-        120,
-        150
-      ]
+      "host_sector": null
     }
   ]
 }
