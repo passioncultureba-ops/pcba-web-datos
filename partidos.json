@@ -1,4 +1,65 @@
 {
-  "actualizado": "2026-10-06T00:17Z",
-  "partidos": []
+  "actualizado": "2026-10-06T00:48Z",
+  "partidos": [
+    {
+      "id": "sel-arg-benin",
+      "iso": "2026-10-06",
+      "confirmed": true,
+      "home": "Argentina",
+      "away": "Benín",
+      "stadium": "El Monumental",
+      "exactDate": "2026-10-06",
+      "exactTime": "20:00",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 5
+        },
+        {
+          "seats": 0,
+          "popular": 4
+        },
+        {
+          "seats": 0,
+          "popular": 4
+        }
+      ],
+      "host_sector": "popular",
+      "precios_usd": [
+        100,
+        120,
+        150
+      ]
+    },
+    {
+      "id": "primera-divi-f12-gimnasia-la-plata-atletico-tucuman",
+      "iso": "2026-10-09",
+      "confirmed": true,
+      "home": "Gimnasia (La Plata)",
+      "away": "Atlético Tucumán",
+      "stadium": "Juan Carmelo Zerillo",
+      "exactDate": "2026-10-09",
+      "exactTime": "18:00",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        }
+      ],
+      "host_sector": null,
+      "precios_usd": [
+        100,
+        120,
+        150
+      ]
+    }
+  ]
 }
