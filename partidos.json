@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T01:34Z",
+  "actualizado": "2026-10-06T01:43Z",
   "partidos": [
     {
       "id": "sel-arg-benin",
@@ -41,6 +41,36 @@
       "stadium": "Juan Carmelo Zerillo",
       "exactDate": "2026-10-09",
       "exactTime": "18:00",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        }
+      ],
+      "host_sector": null,
+      "precios_usd": [
+        100,
+        120,
+        150
+      ]
+    },
+    {
+      "id": "primera-divi-f12-san-lorenzo-deportivo-riestra",
+      "iso": "2026-10-11",
+      "confirmed": true,
+      "home": "San Lorenzo",
+      "away": "Deportivo Riestra",
+      "stadium": "Estadio Pedro Bidegain",
+      "exactDate": "2026-10-11",
+      "exactTime": "14:45",
       "avail": [
         {
           "seats": 0,
