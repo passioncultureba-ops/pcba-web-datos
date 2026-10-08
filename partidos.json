@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-08T02:14Z",
+  "actualizado": "2026-10-08T03:43Z",
   "partidos": [
     {
       "id": "sel-arg-benin",
@@ -86,6 +86,31 @@
       "stadium": "El Monumental",
       "exactDate": "2026-10-10",
       "exactTime": "21:30",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        }
+      ],
+      "host_sector": null
+    },
+    {
+      "id": "primera-divi-f12-racing-belgrano",
+      "iso": "2026-10-11",
+      "confirmed": true,
+      "home": "Racing Club",
+      "away": "Belgrano",
+      "stadium": "Presidente Perón",
+      "exactDate": "2026-10-11",
+      "exactTime": "19:15",
       "avail": [
         {
           "seats": 0,
