@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-10T22:34Z",
+  "actualizado": "2026-10-13T11:53Z",
   "partidos": [
     {
       "id": "sel-arg-benin",
@@ -130,6 +130,106 @@
       ],
       "host_sector": null,
       "avisado_cierre": "2026-10-10T22:34Z"
+    },
+    {
+      "id": "sud-sf-ida-boca-vasco",
+      "iso": "2026-10-13",
+      "confirmed": true,
+      "home": "Boca Juniors",
+      "away": "Vasco da Gama",
+      "stadium": "La Bombonera",
+      "exactDate": "2026-10-13",
+      "exactTime": "21:30",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        }
+      ],
+      "host_sector": null
+    },
+    {
+      "id": "primera-divi-f13-boca-juniors-talleres-de-cordoba",
+      "iso": "2026-10-16",
+      "confirmed": true,
+      "home": "Boca Juniors",
+      "away": "Talleres de Córdoba",
+      "stadium": "La Bombonera",
+      "exactDate": "2026-10-16",
+      "exactTime": "21:30",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        }
+      ],
+      "host_sector": null
+    },
+    {
+      "id": "primera-divi-f13-huracan-gimnasia-la-plata",
+      "iso": "2026-10-15",
+      "confirmed": true,
+      "home": "Huracán",
+      "away": "Gimnasia (La Plata)",
+      "stadium": "Tomás A. Ducó",
+      "exactDate": "2026-10-15",
+      "exactTime": "20:00",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        }
+      ],
+      "host_sector": null
+    },
+    {
+      "id": "primera-divi-f13-velez-gimnasia-de-mendoza",
+      "iso": "2026-10-17",
+      "confirmed": true,
+      "home": "Vélez Sarsfield",
+      "away": "Gimnasia de Mendoza",
+      "stadium": "José Amalfitani",
+      "exactDate": "2026-10-17",
+      "exactTime": "20:00",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        }
+      ],
+      "host_sector": null
     }
   ]
 }
