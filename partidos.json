@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T00:34Z",
+  "actualizado": "2026-10-16T15:16Z",
   "partidos": [
     {
       "id": "sel-arg-benin",
@@ -217,6 +217,56 @@
       "stadium": "José Amalfitani",
       "exactDate": "2026-10-17",
       "exactTime": "20:00",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        }
+      ],
+      "host_sector": null
+    },
+    {
+      "id": "primera-divi-f13-banfield-argentinos-juniors",
+      "iso": "2026-10-17",
+      "confirmed": true,
+      "home": "Banfield",
+      "away": "Argentinos Juniors",
+      "stadium": "Florencio Sola",
+      "exactDate": "2026-10-17",
+      "exactTime": "15:00",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        }
+      ],
+      "host_sector": null
+    },
+    {
+      "id": "primera-divi-f13-racing-independiente",
+      "iso": "2026-10-18",
+      "confirmed": true,
+      "home": "Racing Club",
+      "away": "Independiente",
+      "stadium": "Presidente Perón",
+      "exactDate": "2026-10-18",
+      "exactTime": "14:45",
       "avail": [
         {
           "seats": 0,
