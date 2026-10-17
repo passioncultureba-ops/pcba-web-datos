@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T23:34Z",
+  "actualizado": "2026-10-17T00:50Z",
   "partidos": [
     {
       "id": "sel-arg-benin",
@@ -292,6 +292,31 @@
       "home": "Argentina",
       "away": "Uruguay",
       "stadium": "",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        }
+      ],
+      "host_sector": null
+    },
+    {
+      "id": "primera-divi-f13-deportivo-riestra-union-de-santa-fe",
+      "iso": "2026-10-19",
+      "confirmed": true,
+      "home": "Deportivo Riestra",
+      "away": "Unión de Santa Fe",
+      "stadium": "Guillermo Laza",
+      "exactDate": "2026-10-19",
+      "exactTime": "21:15",
       "avail": [
         {
           "seats": 0,
