@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-17T00:50Z",
+  "actualizado": "2026-10-17T03:09Z",
   "partidos": [
     {
       "id": "sel-arg-benin",
@@ -245,20 +245,25 @@
       "exactTime": "15:00",
       "avail": [
         {
-          "seats": 0,
-          "popular": 0
+          "seats": 10,
+          "popular": 30
         },
         {
           "seats": 0,
-          "popular": 0
+          "popular": 30
         },
         {
           "seats": 0,
-          "popular": 0
+          "popular": 30
         }
       ],
-      "host_sector": null,
-      "avisado_cierre": "2026-10-16T18:34Z"
+      "host_sector": "popular",
+      "avisado_cierre": "2026-10-16T18:34Z",
+      "precios_usd": [
+        60,
+        100,
+        130
+      ]
     },
     {
       "id": "primera-divi-f13-racing-independiente",
@@ -271,19 +276,24 @@
       "exactTime": "14:45",
       "avail": [
         {
-          "seats": 0,
-          "popular": 0
+          "seats": 10,
+          "popular": 30
         },
         {
           "seats": 0,
-          "popular": 0
+          "popular": 30
         },
         {
           "seats": 0,
-          "popular": 0
+          "popular": 30
         }
       ],
-      "host_sector": null
+      "host_sector": "popular",
+      "precios_usd": [
+        160,
+        230,
+        250
+      ]
     },
     {
       "id": "sel-arg-uruguay",
