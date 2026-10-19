@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-17T18:34Z",
+  "actualizado": "2026-10-19T00:34Z",
   "partidos": [
     {
       "id": "sel-arg-benin",
@@ -342,7 +342,8 @@
           "popular": 0
         }
       ],
-      "host_sector": null
+      "host_sector": null,
+      "avisado_cierre": "2026-10-19T00:34Z"
     }
   ]
 }
