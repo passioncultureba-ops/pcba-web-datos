@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-11-05T22:43Z",
+  "actualizado": "2026-11-05T23:04Z",
   "museos": [
     {
       "id": 0,
       "club": "Boca Juniors",
       "area": "La Boca",
       "foto": "/museos/boca-juniors.jpg",
-      "activo": true,
+      "activo": false,
       "salidas": []
     },
     {
@@ -14,7 +14,7 @@
       "club": "River Plate",
       "area": "Núñez",
       "foto": "/museos/river-plate.webp",
-      "activo": true,
+      "activo": false,
       "salidas": []
     },
     {
@@ -22,7 +22,7 @@
       "club": "Argentinos Juniors",
       "area": "La Paternal",
       "foto": "/museos/argentinos-juniors.jpg",
-      "activo": true,
+      "activo": false,
       "salidas": []
     },
     {
@@ -30,7 +30,7 @@
       "club": "La Casa de D10S",
       "area": "La Paternal",
       "foto": "/museos/la-casa-de-d10s.jpg",
-      "activo": true,
+      "activo": false,
       "salidas": []
     }
   ]
