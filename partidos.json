@@ -1,4 +1,80 @@
 {
-  "actualizado": "2026-11-05T22:29Z",
-  "partidos": []
+  "actualizado": "2026-11-05T23:11Z",
+  "partidos": [
+    {
+      "id": "primera-divi-f16-san-lorenzo-platense",
+      "iso": "2026-11-06",
+      "confirmed": true,
+      "home": "San Lorenzo",
+      "away": "Platense",
+      "stadium": "Estadio Pedro Bidegain",
+      "exactDate": "2026-11-06",
+      "exactTime": "19:15",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        }
+      ],
+      "host_sector": null
+    },
+    {
+      "id": "primera-divi-f16-boca-juniors-defensa-y-justicia",
+      "iso": "2026-11-07",
+      "confirmed": true,
+      "home": "Boca Juniors",
+      "away": "Defensa y Justicia",
+      "stadium": "La Bombonera",
+      "exactDate": "2026-11-07",
+      "exactTime": "17:30",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        }
+      ],
+      "host_sector": null
+    },
+    {
+      "id": "primera-divi-f16-argentinos-juniors-huracan",
+      "iso": "2026-11-07",
+      "confirmed": true,
+      "home": "Argentinos Juniors",
+      "away": "Huracán",
+      "stadium": "Estadio Diego Armando Maradona",
+      "exactDate": "2026-11-07",
+      "exactTime": "17:30",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        }
+      ],
+      "host_sector": null
+    }
+  ]
 }
