@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T23:11Z",
+  "actualizado": "2026-11-06T00:16Z",
   "partidos": [
     {
       "id": "primera-divi-f16-san-lorenzo-platense",
@@ -60,6 +60,31 @@
       "stadium": "Estadio Diego Armando Maradona",
       "exactDate": "2026-11-07",
       "exactTime": "17:30",
+      "avail": [
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        },
+        {
+          "seats": 0,
+          "popular": 0
+        }
+      ],
+      "host_sector": null
+    },
+    {
+      "id": "primera-divi-f16-independiente-deportivo-riestra",
+      "iso": "2026-11-06",
+      "confirmed": true,
+      "home": "Independiente",
+      "away": "Deportivo Riestra",
+      "stadium": "Libertadores de América",
+      "exactDate": "2026-11-06",
+      "exactTime": "19:15",
       "avail": [
         {
           "seats": 0,
