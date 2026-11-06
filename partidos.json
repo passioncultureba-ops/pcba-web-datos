@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T15:26Z",
+  "actualizado": "2026-11-06T15:41Z",
   "partidos": [
     {
       "id": "primera-divi-f16-san-lorenzo-platense",
@@ -104,7 +104,7 @@
     {
       "id": "sel-arg-uruguay",
       "iso": "2026-11-13",
-      "confirmed": false,
+      "confirmed": true,
       "home": "Argentina",
       "away": "Uruguay",
       "stadium": "La Bombonera (Alberto J. Armando)",
@@ -122,7 +122,9 @@
           "popular": 0
         }
       ],
-      "host_sector": null
+      "host_sector": null,
+      "exactDate": "2026-11-13",
+      "exactTime": "20:00"
     }
   ]
 }
