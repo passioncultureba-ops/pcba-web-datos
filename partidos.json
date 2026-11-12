@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T15:20Z",
+  "actualizado": "2026-11-12T01:11Z",
   "partidos": [
     {
       "id": "primera-divi-f16-san-lorenzo-platense",
@@ -128,8 +128,8 @@
     },
     {
       "id": "pri-playoff-octavos-partido-4",
-      "iso": "2026-11-22",
-      "confirmed": false,
+      "iso": "2026-11-21",
+      "confirmed": true,
       "home": "Argentinos Juniors",
       "away": "Independiente",
       "stadium": "Estadio Diego Armando Maradona",
@@ -147,12 +147,14 @@
           "popular": 0
         }
       ],
-      "host_sector": null
+      "host_sector": null,
+      "exactDate": "2026-11-21",
+      "exactTime": "17:00"
     },
     {
       "id": "pri-playoff-octavos-partido-5",
-      "iso": "2026-11-22",
-      "confirmed": false,
+      "iso": "2026-11-25",
+      "confirmed": true,
       "home": "Boca Juniors",
       "away": "Independiente Rivadavia",
       "stadium": "La Bombonera",
@@ -170,7 +172,9 @@
           "popular": 0
         }
       ],
-      "host_sector": null
+      "host_sector": null,
+      "exactDate": "2026-11-25",
+      "exactTime": "21:00"
     }
   ]
 }
